@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:5c27de31a515a
+DTSTAMP:20181229T225057
+DTSTART:20181206T143000Z
+DTEND:20181206T170000Z
+LOCATION:
+SUMMARY:Финал на преакселераторката програма Primer 2019
+DESCRIPTION: Primer е пре-акселераторска програма\,  създадена и сертифицирана от европейската организация InnoEnergy и осъществена в България от Cleantech Bulgaria. Тя има за цел да обучи и подготви предприемачи с идеи\,  които имат бизнес и пазарен потенциал в ранен етап от тяхното развитие. По време на финалното събитието 8 екипа\,  преминали успешно[..]
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:5c840c073474b
+DTSTAMP:20190309T205503
+DTSTART:20190329T70000Z
+DTEND:20190329T160000Z
+LOCATION:
+SUMMARY:Educate to Create 2019 – Impact of Artificial Intelligence on Higher Education
+DESCRIPTION: Educate to Create 2019 – Impact of Artificial Intelligence on Higher Education
+END:VEVENT
+END:VCALENDAR

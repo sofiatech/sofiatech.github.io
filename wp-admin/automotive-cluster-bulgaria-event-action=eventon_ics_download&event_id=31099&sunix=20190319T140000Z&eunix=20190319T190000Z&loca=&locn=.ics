@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:5c840c062a66f
+DTSTAMP:20190309T205502
+DTSTART:20190319T140000Z
+DTEND:20190319T190000Z
+LOCATION:
+SUMMARY:Automotive Cluster Bulgaria Event
+DESCRIPTION: Automotive Cluster Bulgaria and Confindustria Italy hold an event devoted to car design. It will include a presentation section with a subsequent cocktail.
+END:VEVENT
+END:VCALENDAR

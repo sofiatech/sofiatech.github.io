@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Коментари за STP</title>
+	<atom:link href="https://sofiatech.bg/comments/feed/?lang=bg" rel="self" type="application/rss+xml" />
+	<link>https://sofiatech.bg</link>
+	<description>STP web site dev</description>
+	<lastBuildDate>Fri, 16 Nov 2012 08:05:41 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>Коментари по Hello world! (Demo) от Mr WordPress</title>
+		<link>https://sofiatech.bg/uncategorized/hello-world/?lang=bg/#comment-2</link>
+		<dc:creator><![CDATA[Mr WordPress]]></dc:creator>
+		<pubDate>Fri, 16 Nov 2012 08:05:41 +0000</pubDate>
+		<guid isPermaLink="false">http://sofiatech.bg/?p=1#comment-2</guid>
+		<description><![CDATA[Hi, this is a comment.&lt;br /&gt;To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></description>
+		<content:encoded><![CDATA[<p>Hi, this is a comment.<br />To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

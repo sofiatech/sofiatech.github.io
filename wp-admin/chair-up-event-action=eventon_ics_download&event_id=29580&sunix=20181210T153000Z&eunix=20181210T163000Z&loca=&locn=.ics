@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:5c27de3c5ab58
+DTSTAMP:20181229T225108
+DTSTART:20181210T153000Z
+DTEND:20181210T163000Z
+LOCATION:
+SUMMARY:Chair Up! Презентация\,  последвана от дискусия
+DESCRIPTION: 10 ДЕКЕМВРИ\,  17:30-18:30 ч. МОТИВАЦИЯ Среща с Krasse Gueorguiev Ultrarunner\,  ултрамаратонец Мотивационна лекция\,  от която ще научим повече за живота на Краси\,  за промяната\,  приоритетите\,  за да стигнем до нея и защо е важно да се движим повече\,  когато сме на работа. Ще бъде представена и програмата Chair UP и започващо[..]
+END:VEVENT
+END:VCALENDAR

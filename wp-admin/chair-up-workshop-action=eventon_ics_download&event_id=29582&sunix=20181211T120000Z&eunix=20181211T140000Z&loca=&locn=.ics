@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:5c27de3edfafe
+DTSTAMP:20181229T225110
+DTSTART:20181211T120000Z
+DTEND:20181211T140000Z
+LOCATION:
+SUMMARY:Chair Up! Уъркшоп Димитрина Сивкова
+DESCRIPTION: 11 ДЕКЕМВРИ\,  15:00-16:15 ч. УЪРКШОП с Димитрина Сивкова\,  физиотерапевт от FinaStyle - Център за масажи\,  гр. София Защо е важно да не се заседяваме дълго в една позиция докато сме на работа? Има ли как да се раздвижим ефективно за по-малко 2 минути\,  дори без да ставаме от стола? Може ли[..]
+END:VEVENT
+END:VCALENDAR
